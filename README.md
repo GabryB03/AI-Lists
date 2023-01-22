@@ -25,3 +25,7 @@
 * [Magenta](https://magenta.tensorflow.org/)
 * [Cyanite.ai](https://cyanite.ai/)
 * [Orb Production Plugins](https://www.orbplugins.com/orb-producer-suite/)
+### Nude Faking Section
+* [DreamTime](https://www.dreamtime.tech/)
+* [DeepNude](https://deepnude.cc/)
+* [SukebeZone](https://www.sukebezone.com/)
