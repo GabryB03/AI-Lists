@@ -4,6 +4,8 @@
 * [Pandorasbox.ai](https://www.pandorasbox.ai/)
 * [ProductHunt](https://www.producthunt.com/topics/artificial-intelligence)
 # Not mentioned AIs
+### Cool AIs
+* [Smart Typer - AI Keyboard](https://play.google.com/store/apps/details?id=mobil.slayer.smarttyper)
 ### Avatars section
 * [Dawn AI](https://play.google.com/store/apps/details?id=com.bendingspoons.dawn.ai&hl=it&gl=US)
 * [FaceApp](https://play.google.com/store/apps/details?id=io.faceapp&hl=it&gl=US)
