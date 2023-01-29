@@ -13,6 +13,9 @@
 * [Snap Camera](https://snapcamera.snapchat.com/)
 * [Elai.io](https://elai.io/avatars)
 ### Music & Audio Section
+* [MuseNet](https://openai.com/blog/musenet/)
+* [Piano Genie](https://www.i-am.ai/piano-genie.html)
+* [Concert Creator](https://www.concertcreator.ai/)
 * [Voice.ai](https://voice.ai/)
 * [Uberduck](https://uberduck.ai/)
 * [FreeVC](https://huggingface.co/spaces/OlaWod/FreeVC)
