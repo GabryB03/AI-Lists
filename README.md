@@ -46,6 +46,7 @@
 * [DreamTime](https://www.dreamtime.tech/)
 * [DeepNude](https://deepnude.cc/)
 * [SukebeZone](https://www.sukebezone.com/)
+* [Stable Diffusion Method Guide](https://teletype.in/@hackfreaks/oBOsvUcck5D)
 ### Open Source Voice Conversion Projects
 * [voice_conversion](https://github.com/ebadawy/voice_conversion)
 * [FragmentVC](https://github.com/yistLin/FragmentVC)
