@@ -6,6 +6,10 @@
 # Not mentioned AIs
 ### Cool AIs
 * [Smart Typer - AI Keyboard](https://play.google.com/store/apps/details?id=mobil.slayer.smarttyper)
+### Image Editing
+* [RunAwayML](https://runwayml.com/)
+* [AI Image Enlarger](https://imglarger.com/)
+* [Remove Background](https://www.remove.bg/)
 ### Avatars section
 * [Dawn AI](https://play.google.com/store/apps/details?id=com.bendingspoons.dawn.ai&hl=it&gl=US)
 * [FaceApp](https://play.google.com/store/apps/details?id=io.faceapp&hl=it&gl=US)
@@ -13,6 +17,7 @@
 * [Snap Camera](https://snapcamera.snapchat.com/)
 * [Elai.io](https://elai.io/avatars)
 ### Music & Audio Section
+* [NVIDIA Broadcast](https://www.nvidia.com/it-it/geforce/broadcasting/broadcast-app/)
 * [MuseNet](https://openai.com/blog/musenet/)
 * [Piano Genie](https://www.i-am.ai/piano-genie.html)
 * [Concert Creator](https://www.concertcreator.ai/)
