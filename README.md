@@ -7,6 +7,7 @@
 ### Cool AIs
 * [Smart Typer - AI Keyboard](https://play.google.com/store/apps/details?id=mobil.slayer.smarttyper)
 ### Image Editing
+* [GFPGAN](https://github.com/TencentARC/GFPGAN) - Open Source project to restore faces.
 * [RunAwayML](https://runwayml.com/)
 * [AI Image Enlarger](https://imglarger.com/)
 * [Remove Background](https://www.remove.bg/)
