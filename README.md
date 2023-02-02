@@ -29,6 +29,7 @@
 * [Elai.io](https://elai.io/avatars)
 ### Music & Audio Section
 * [NVIDIA Broadcast](https://www.nvidia.com/it-it/geforce/broadcasting/broadcast-app/)
+* [Speechtext.ai](https://speechtext.ai/)
 * [MuseNet](https://openai.com/blog/musenet/)
 * [Piano Genie](https://www.i-am.ai/piano-genie.html)
 * [Concert Creator](https://www.concertcreator.ai/)
