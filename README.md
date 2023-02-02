@@ -18,6 +18,7 @@
 * [Topaz DeNoise AI](https://www.topazlabs.com/denoise-ai)
 * [Topaz Sharpen AI](https://www.topazlabs.com/sharpen-ai)
 ### Image Editing
+* [Image Similarity](https://topten.ai/diff-checkers-review/)
 * [Skylum Luminar Neo](https://skylum.com/it/luminar)
 * [GFPGAN](https://github.com/TencentARC/GFPGAN) - Open Source project to restore faces.
 * [RunAwayML](https://runwayml.com/)
