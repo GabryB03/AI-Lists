@@ -6,6 +6,8 @@
 # Not mentioned AIs
 ### Cool AIs
 * [Smart Typer - AI Keyboard](https://play.google.com/store/apps/details?id=mobil.slayer.smarttyper)
+* [GoCharlie](https://gocharlie.ai/)
+* [This X Does Not Exist](https://thisxdoesnotexist.com/)
 ### Image Optimization (Topaz)
 * [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai)
 * [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai)
@@ -27,6 +29,7 @@
 * [PREQUEL](https://play.google.com/store/apps/details?id=com.prequel.app&hl=it&gl=US)
 * [Snap Camera](https://snapcamera.snapchat.com/)
 * [Elai.io](https://elai.io/avatars)
+* [FaceTuneApp](https://www.facetuneapp.com/)
 ### Music & Audio Section
 * [NVIDIA Broadcast](https://www.nvidia.com/it-it/geforce/broadcasting/broadcast-app/)
 * [Speechtext.ai](https://speechtext.ai/)
@@ -40,6 +43,7 @@
 * [Lalal.ai](https://www.lalal.ai/)
 * [Vocal Remover](https://vocalremover.org/)
 * [TuneBat Analyzer](https://tunebat.com/Analyzer)
+* [Descript Overdub](https://www.descript.com/overdub)
 * [Samplette](https://samplette.io/)
 * [PlayPhrase](https://www.playphrase.me/)
 * [Jarvis Lyrics](https://www.jarvis-lyrics.com/)
