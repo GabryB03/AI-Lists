@@ -4,6 +4,9 @@
 * [Pandorasbox.ai](https://www.pandorasbox.ai/)
 * [ProductHunt](https://www.producthunt.com/topics/artificial-intelligence)
 # Not mentioned AIs
+### Automatic Captcha Solving
+* [CapMonster Cloud](https://capmonster.cloud/)
+* [NopeCHA](https://nopecha.com/)
 ### Cool AIs
 * [Smart Typer - AI Keyboard](https://play.google.com/store/apps/details?id=mobil.slayer.smarttyper)
 * [GoCharlie](https://gocharlie.ai/)
