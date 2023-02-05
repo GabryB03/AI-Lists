@@ -8,6 +8,7 @@
 * [CapMonster Cloud](https://capmonster.cloud/)
 * [NopeCHA](https://nopecha.com/)
 ### Cool AIs
+* [FaceMorph](https://facemorph.me/)
 * [Smart Typer - AI Keyboard](https://play.google.com/store/apps/details?id=mobil.slayer.smarttyper)
 * [GoCharlie](https://gocharlie.ai/)
 * [This X Does Not Exist](https://thisxdoesnotexist.com/)
@@ -35,6 +36,7 @@
 * [Elai.io](https://elai.io/avatars)
 * [FaceTuneApp](https://www.facetuneapp.com/)
 ### Music & Audio Section
+* [Adobe Podcast](https://podcast.adobe.com/)
 * [NVIDIA Broadcast](https://www.nvidia.com/it-it/geforce/broadcasting/broadcast-app/)
 * [Speechtext.ai](https://speechtext.ai/)
 * [MuseNet](https://openai.com/blog/musenet/)
