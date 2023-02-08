@@ -20,6 +20,9 @@
 * [Topaz Sharpen AI](https://www.topazlabs.com/sharpen-ai)
 ### Image Editing
 * [Colorize Image](https://www.img2go.com/colorize-image)
+* [Wondershare Pixcut Watermark Remover](https://pixcut.wondershare.com/remove-watermark.html)
+* [Free Watermark Remover](https://www.watermarkremover.io/)
+* [Online Watermark Remover](https://watermarkremover.media.io/app/)
 * [Image Similarity](https://topten.ai/diff-checkers-review/)
 * [Skylum Luminar Neo](https://skylum.com/it/luminar)
 * [GFPGAN](https://github.com/TencentARC/GFPGAN) - Open Source project to restore faces.
