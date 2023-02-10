@@ -12,7 +12,8 @@
 * [Smart Typer - AI Keyboard](https://play.google.com/store/apps/details?id=mobil.slayer.smarttyper)
 * [GoCharlie](https://gocharlie.ai/)
 * [This X Does Not Exist](https://thisxdoesnotexist.com/)
-### Image Optimization (Topaz)
+### Image & Video Optimization
+* [EyeQ Photos Perfectly Clear AI (Photos & Videos)](https://eyeq.photos/)
 * [AVCLabs Photo Enhancer AI](https://www.avclabs.com/photo-enhancer-ai.html)
 * [AVCLabs Video Enhancer AI](https://www.avclabs.com/video-enhancer-ai.html)
 * [AVCLabs Video Blur AI](https://www.avclabs.com/video-blur-ai.html)
