@@ -5,6 +5,8 @@
 * [ProductHunt](https://www.producthunt.com/topics/artificial-intelligence)
 # Not mentioned AIs
 ### Automatic Captcha Solving
+* [CaptchaAI](https://captchaai.com)
+* [CapSolver](https://www.capsolver.com/)
 * [CapMonster Cloud](https://capmonster.cloud/)
 * [NopeCHA](https://nopecha.com/)
 ### Cool AIs
