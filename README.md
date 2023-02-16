@@ -115,3 +115,5 @@
 * [Vocal-Synthesizer](https://github.com/weslleygere/Vocal-Synthesizer)
 * [Vocals2Song](https://github.com/AntonioAlgaida/Vocals2Song)
 * [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)
+### Open Source NLP AI/ML Chatbots Projects
+* [Amazon Science - Multimodal Chain-of-Thought Reasoning in Language Models](https://github.com/amazon-science/mm-cot)
