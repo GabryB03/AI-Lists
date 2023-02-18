@@ -54,6 +54,7 @@
 * [Elai.io](https://elai.io/avatars)
 * [FaceTuneApp](https://www.facetuneapp.com/)
 ### Music & Audio Section
+* [Moises.ai](https://moises.ai/)
 * [Adobe Podcast](https://podcast.adobe.com/)
 * [NVIDIA Broadcast](https://www.nvidia.com/it-it/geforce/broadcasting/broadcast-app/)
 * [Speechtext.ai](https://speechtext.ai/)
