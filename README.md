@@ -10,6 +10,10 @@
 * [CapMonster Cloud](https://capmonster.cloud/)
 * [NopeCHA](https://nopecha.com/)
 ### Cool AIs
+* [GPT For Work](https://gptforwork.com/)
+* [Synthesys X](https://synthesys.io/x/)
+* [NVIDIA Maxine](https://developer.nvidia.com/maxine)
+* [Publer](https://publer.io/)
 * [FaceMorph](https://facemorph.me/)
 * [Smart Typer - AI Keyboard](https://play.google.com/store/apps/details?id=mobil.slayer.smarttyper)
 * [GoCharlie](https://gocharlie.ai/)
@@ -34,6 +38,7 @@
 * [Topaz Sharpen AI](https://www.topazlabs.com/sharpen-ai)
 ### Image Editing
 * [Colorize Image](https://www.img2go.com/colorize-image)
+* [Magic Eraser](https://magicstudio.com/magiceraser)
 * [Wondershare Pixcut Watermark Remover](https://pixcut.wondershare.com/remove-watermark.html)
 * [Free Watermark Remover](https://www.watermarkremover.io/)
 * [Online Watermark Remover](https://watermarkremover.media.io/app/)
@@ -55,6 +60,7 @@
 * [FaceTuneApp](https://www.facetuneapp.com/)
 ### Music & Audio Section
 * [Moises.ai](https://moises.ai/)
+* [Google Research MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
 * [Adobe Podcast](https://podcast.adobe.com/)
 * [NVIDIA Broadcast](https://www.nvidia.com/it-it/geforce/broadcasting/broadcast-app/)
 * [Speechtext.ai](https://speechtext.ai/)
