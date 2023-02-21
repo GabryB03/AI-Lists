@@ -18,7 +18,10 @@
 * [Smart Typer - AI Keyboard](https://play.google.com/store/apps/details?id=mobil.slayer.smarttyper)
 * [GoCharlie](https://gocharlie.ai/)
 * [This X Does Not Exist](https://thisxdoesnotexist.com/)
+* [Axiom.ai](https://axiom.ai/)
+* [Wolfram Alpha](https://www.wolframalpha.com/)
 ### Image & Video Optimization
+* [HitPaw Softwares](https://www.hitpaw.com/)
 * [ON1 Portrait AI](https://www.on1.com/products/portrait-ai/)
 * [ON1 NoNoise AI](https://www.on1.com/products/nonoise-ai/)
 * [ON1 Resize AI 2023](https://www.on1.com/store/on1rai-2023/)
