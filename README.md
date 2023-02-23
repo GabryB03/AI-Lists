@@ -128,5 +128,6 @@
 ### Open Source NLP AI/ML Chatbots Projects
 * [Amazon Science - Multimodal Chain-of-Thought Reasoning in Language Models](https://github.com/amazon-science/mm-cot)
 # Other Open Source Projects
+* [DeepFaceLive](https://github.com/iperov/DeepFaceLive)
 * [MrTornado24 - AIs for images & portraits](https://github.com/MrTornado24?tab=repositories)
 * [lllyasviel - Diffusion models](https://github.com/lllyasviel?tab=repositories)
