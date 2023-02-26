@@ -11,6 +11,9 @@
 * [NopeCHA](https://nopecha.com/)
 ### Cool AIs
 * [GPT For Work](https://gptforwork.com/)
+* [Resoomer](https://resoomer.com/)
+* [LikeFont](https://en.likefont.com/)
+* [WhatTheFont](https://www.myfonts.com/pages/whatthefont)
 * [Synthesys X](https://synthesys.io/x/)
 * [NVIDIA Maxine](https://developer.nvidia.com/maxine)
 * [Publer](https://publer.io/)
