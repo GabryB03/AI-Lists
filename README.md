@@ -1,6 +1,7 @@
 # AI Lists
 ### Famous AIs Lists
 * [Futurepedia](https://www.futurepedia.io/)
+* [Future Tools](https://www.futuretools.io/)
 * [Pandorasbox.ai](https://www.pandorasbox.ai/)
 * [ProductHunt](https://www.producthunt.com/topics/artificial-intelligence)
 # Not mentioned AIs
