@@ -62,7 +62,8 @@
 * [Dawn AI](https://play.google.com/store/apps/details?id=com.bendingspoons.dawn.ai&hl=it&gl=US)
 * [FaceApp](https://play.google.com/store/apps/details?id=io.faceapp&hl=it&gl=US)
 * [PREQUEL](https://play.google.com/store/apps/details?id=com.prequel.app&hl=it&gl=US)
-* [Snap Camera](https://snapcamera.snapchat.com/)
+* [Snap Camera](https://www.youtube.com/watch?v=K1z2Qy3LXsU)
+* [Animaze](https://www.animaze.us/)
 * [Elai.io](https://elai.io/avatars)
 * [FaceTuneApp](https://www.facetuneapp.com/)
 ### Music & Audio Section
