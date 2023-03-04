@@ -5,6 +5,12 @@
 * [Pandorasbox.ai](https://www.pandorasbox.ai/)
 * [ProductHunt](https://www.producthunt.com/topics/artificial-intelligence)
 # Not mentioned AIs
+### Face Swapping
+* [DeepSwap - Face Swapping/Changing](https://www.deepswap.ai/)
+* [FaceSwap by Akool](https://faceswap.akool.com/)
+* [FaceSwap.dev](https://faceswap.dev/)
+* [FaceSwapper.ai](https://faceswapper.ai/)
+* [Swapface](https://swapface.org/#/home)
 ### Automatic Captcha Solving
 * [CaptchaAI](https://captchaai.com)
 * [CapSolver](https://www.capsolver.com/)
@@ -76,10 +82,6 @@
 * [NaturalReaders](https://www.naturalreaders.com/)
 * [Lovo AI](https://lovo.ai/)
 ### Avatars section
-* [DeepSwap - Face Swapping/Changing](https://www.deepswap.ai/)
-* [FaceSwap by Akool](https://faceswap.akool.com/)
-* [FaceSwap.dev](https://faceswap.dev/)
-* [FaceSwapper.ai](https://faceswapper.ai/)
 * [Dawn AI](https://play.google.com/store/apps/details?id=com.bendingspoons.dawn.ai&hl=it&gl=US)
 * [FaceApp](https://play.google.com/store/apps/details?id=io.faceapp&hl=it&gl=US)
 * [PREQUEL](https://play.google.com/store/apps/details?id=com.prequel.app&hl=it&gl=US)
