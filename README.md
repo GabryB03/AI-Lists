@@ -162,5 +162,6 @@
 * [FaceDancer](https://github.com/felixrosberg/FaceDancer)
 # Music Open Source Projects
 * [MusicLM PyTorch](https://github.com/lucidrains/musiclm-pytorch)
+* [AudioLM PyTorch](https://github.com/lucidrains/audiolm-pytorch)
 * [Musicaiz](https://github.com/carlosholivan/musicaiz)
 * [Open MusicLM](https://github.com/zhvng/open-musiclm)
