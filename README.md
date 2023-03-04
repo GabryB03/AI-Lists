@@ -160,3 +160,7 @@
 * [lllyasviel - Diffusion models](https://github.com/lllyasviel?tab=repositories)
 * [Disco Diffusion](https://github.com/alembics/disco-diffusion)
 * [FaceDancer](https://github.com/felixrosberg/FaceDancer)
+# Music Open Source Projects
+* [MusicLM PyTorch](https://github.com/lucidrains/musiclm-pytorch)
+* [Musicaiz](https://github.com/carlosholivan/musicaiz)
+* [Open MusicLM](https://github.com/zhvng/open-musiclm)
