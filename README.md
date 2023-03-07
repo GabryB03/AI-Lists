@@ -43,6 +43,7 @@
 * [Wondershare Filmora](https://filmora.wondershare.it/)
 * [Blackmagic DaVinci Resolve](https://www.blackmagicdesign.com/it/products/davinciresolve)
 ### Image & Video Optimization
+* [Remini.ai AI Photo Enhancer](https://remini.ai/)
 * [HitPaw Softwares](https://www.hitpaw.com/)
 * [Aiseesoft Softwares](https://www.aiseesoft.com/)
 * [AnyMP4 Video Enhancement](https://www.anymp4.com/video-enhancement/)
