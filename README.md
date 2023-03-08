@@ -92,6 +92,7 @@
 * [Animaze](https://www.animaze.us/)
 * [Elai.io](https://elai.io/avatars)
 * [FaceTuneApp](https://www.facetuneapp.com/)
+* [Portrait AI](https://portraitai.app/)
 ### Music & Audio Section
 * [Moises.ai](https://moises.ai/)
 * [iZotope Neutron 4](https://www.izotope.com/en/products/neutron.html)
