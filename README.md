@@ -165,6 +165,7 @@
 * [DeepFaceLive](https://github.com/iperov/DeepFaceLive)
 * [MrTornado24 - AIs for images & portraits](https://github.com/MrTornado24?tab=repositories)
 * [lllyasviel - Diffusion models](https://github.com/lllyasviel?tab=repositories)
+* [LucidDrains - AI Open Source Projects](https://github.com/lucidrains?tab=repositories)
 * [Disco Diffusion](https://github.com/alembics/disco-diffusion)
 * [FaceDancer](https://github.com/felixrosberg/FaceDancer)
 # Music Open Source Projects
