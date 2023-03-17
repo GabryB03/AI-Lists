@@ -95,6 +95,7 @@
 * [FaceTuneApp](https://www.facetuneapp.com/)
 * [Portrait AI](https://portraitai.app/)
 ### Music & Audio Section
+* [Ultimate Vocal Remover](https://ultimatevocalremover.com/)
 * [Moises.ai](https://moises.ai/)
 * [iZotope Neutron 4](https://www.izotope.com/en/products/neutron.html)
 * [Google Research MusicLM](https://google-research.github.io/seanet/musiclm/examples/)
