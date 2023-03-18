@@ -69,6 +69,11 @@
 * [Topaz DeNoise AI](https://www.topazlabs.com/denoise-ai)
 * [Topaz Sharpen AI](https://www.topazlabs.com/sharpen-ai)
 * [Runaway.ml Gen 1](https://research.runwayml.com/gen1)
+* [SnapEdit Remove Objects](https://snapedit.app/en/)
+* [SnapEdit Remove Background](https://snapedit.app/en/remove-bg)
+* [SnapEdit Enhance](https://snapedit.app/enhance)
+* [SnapEdit AI Photo Editor](https://play.google.com/store/apps/details?id=snapedit.app.remove)
+* [SnapEdit AI Photo Enhancer](https://play.google.com/store/apps/details?id=com.enhancer.app)
 ### Image Editing
 * [Colorize Image](https://www.img2go.com/colorize-image)
 * [Magic Eraser](https://magicstudio.com/magiceraser)
