@@ -36,6 +36,7 @@
 * [Durable AI Site Builder](https://durable.co/ai-website-builder)
 * [Outwrite](https://www.outwrite.com/)
 * [Syllaby](https://www.syllaby.io/)
+* [Prega.org](https://prega.org/)
 ### Famous softwares that integrate AIs
 * [Adobe After Effects](https://www.adobe.com/it/products/aftereffects.html)
 * [Adobe Premiere Pro](https://www.adobe.com/it/products/premiere.html)
