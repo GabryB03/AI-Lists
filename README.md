@@ -101,6 +101,7 @@
 * [FaceTuneApp](https://www.facetuneapp.com/)
 * [Portrait AI](https://portraitai.app/)
 ### Music & Audio Section
+* [Koe Recast](https://koe.ai/)
 * [Ultimate Vocal Remover](https://ultimatevocalremover.com/)
 * [Moises.ai](https://moises.ai/)
 * [iZotope Neutron 4](https://www.izotope.com/en/products/neutron.html)
