@@ -76,6 +76,7 @@
 * [SnapEdit AI Photo Editor](https://play.google.com/store/apps/details?id=snapedit.app.remove)
 * [SnapEdit AI Photo Enhancer](https://play.google.com/store/apps/details?id=com.enhancer.app)
 ### Image Editing
+* [The best background remover](https://www.photoroom.com/background-remover)
 * [Colorize Image](https://www.img2go.com/colorize-image)
 * [Magic Eraser](https://magicstudio.com/magiceraser)
 * [Wondershare Pixcut Watermark Remover](https://pixcut.wondershare.com/remove-watermark.html)
@@ -136,6 +137,7 @@
 * [DeepNude](https://deepnude.cc/)
 * [SukebeZone](https://www.sukebezone.com/)
 * [Stable Diffusion Method Guide](https://teletype.in/@hackfreaks/oBOsvUcck5D)
+* [BikiniOff](https://bikinioff.net/)
 ### Open Source Voice Conversion Projects
 * [voice_conversion](https://github.com/ebadawy/voice_conversion)
 * [FragmentVC](https://github.com/yistLin/FragmentVC)
