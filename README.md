@@ -169,6 +169,7 @@
 * [Vocal-Synthesizer](https://github.com/weslleygere/Vocal-Synthesizer)
 * [Vocals2Song](https://github.com/AntonioAlgaida/Vocals2Song)
 * [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger)
+* [So VITS SVC (Singing Voice Conversion) Fork](https://github.com/voicepaw/so-vits-svc-fork)
 ### Open Source NLP AI/ML Chatbots Projects
 * [Amazon Science - Multimodal Chain-of-Thought Reasoning in Language Models](https://github.com/amazon-science/mm-cot)
 # Other Open Source Projects
