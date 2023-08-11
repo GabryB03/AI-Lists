@@ -138,6 +138,8 @@
 * [SukebeZone](https://www.sukebezone.com/)
 * [Stable Diffusion Method Guide](https://teletype.in/@hackfreaks/oBOsvUcck5D)
 * [BikiniOff](https://bikinioff.net/)
+* [ClothOff](https://clothoff.io/)
+* [Undress.app](https://undress.app/)
 ### Open Source Voice Conversion Projects
 * [voice_conversion](https://github.com/ebadawy/voice_conversion)
 * [FragmentVC](https://github.com/yistLin/FragmentVC)
